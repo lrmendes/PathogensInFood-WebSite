@@ -30,27 +30,27 @@ url  = "/overview/"
 weight = 2
 
 [[menu.main]]
+identifier = "support"
+name = "Support"
+url  = "/support/"
+weight = 3
+
+[[menu.main]]
 identifier="blog"
 name = "Blog"
 url  = "/blog/"
-weight = 3
+weight = 4
 
 [[menu.main]]
 identifier = "faq"
 name = "FAQ"
 url  = "/faq/"
-weight = 4
+weight = 5
 
 [[menu.main]]
 identifier = "contact"
 name = "Contact Us"
 url  = "/contact/"
-weight = 5
-
-[[menu.main]]
-identifier = "login"
-name = "Access System"
-url  = "http://fsqa.esa.ipb.pt:3222"
 weight = 6
 
 # Top bar social links menu
