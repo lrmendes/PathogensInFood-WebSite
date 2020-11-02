@@ -1,4 +1,4 @@
-baseurl = "https://fsqa.esa.ipb.pt"
+baseurl = "https://upbeat-mccarthy-3cfde3.netlify.app/"
 title = "PathogensInFood"
 theme = "hugo-universal-theme"
 themesDir = "../.."
