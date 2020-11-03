@@ -12,8 +12,9 @@ The Pathogens-in-Foods web application brings together, under a harmonised arran
 
 Searches in the database can be performed for following food categories and pathogens:
 
-|   	| Meat and meat products           	|                      	| Salmonella spp.,                      	|   	|
+|   	| Categories                       	|                      	| Pathogens                               	|   	|
 |---	|----------------------------------	|---------------------	|---------------------------------------	|---	|
+|   	| Meat and meat products          	|                     	| Salmonella spp.,                   	|   	|
 |   	| Eggs and egg products            	|                     	| Campylobacter spp.,                   	|   	|
 |   	| Milk and dairy products          	|                     	| Shigatoxin producing Escherichia coli 	|   	|
 |   	| Grains and cereal products       	|                     	| Listeria monocytogenes                	|   	|

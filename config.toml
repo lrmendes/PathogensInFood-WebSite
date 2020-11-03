@@ -1,4 +1,4 @@
-baseurl = "https://upbeat-mccarthy-3cfde3.netlify.app/"
+baseurl = "http://fsqa.esa.ipb.pt"
 title = "PathogensInFood"
 theme = "hugo-universal-theme"
 themesDir = "themes"
@@ -30,28 +30,34 @@ url  = "/overview/"
 weight = 2
 
 [[menu.main]]
-identifier = "support"
-name = "Support"
-url  = "/support/"
+identifier = "team"
+name = "The Team"
+url  = "/team/"
 weight = 3
 
 [[menu.main]]
-identifier="blog"
-name = "Blog"
-url  = "/blog/"
+identifier = "support"
+name = "Support"
+url  = "/support/"
 weight = 4
+
+[[menu.main]]
+identifier="blog"
+name = "News"
+url  = "/blog/"
+weight = 5
 
 [[menu.main]]
 identifier = "faq"
 name = "FAQ"
 url  = "/faq/"
-weight = 5
+weight = 6
 
 [[menu.main]]
 identifier = "contact"
 name = "Contact Us"
 url  = "/contact/"
-weight = 6
+weight = 7
 
 # Top bar social links menu
 
@@ -123,16 +129,9 @@ copyright = "Copyright (c) 2015 - 2020, Pathogens In Foods."
 # Format dates with Go's time formatting
 date_format = "January 2, 2006"
 
-logo = "img/logo2.png"
+logo = "img/PathogensInFoods.png"
 logo_small = "img/logo-small.png"
-address = """<p class="text-uppercase"><strong>Centro de Investigação de Montanha.</strong>
-        <br>Campus Santa Apolónia
-        <br>5300-253 Bragança
-        <br><strong>Portugal</strong>
-        <br>
-        <br>Phone: 273 303 382
-        <br>Email: <strong>cimo@ipb.pt</strong>
-        
+address = """<p class="text-uppercase">        
       </p>
       """
 
@@ -161,13 +160,16 @@ text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello
     # For more informtion take a look at the README.
 
 [params.features]
-    enable = true
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
-[params.testimonials]
+[params.description]
     enable = true
+
+[params.testimonials]
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -183,7 +185,7 @@ text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello
     link_text = "Access System"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -192,7 +194,7 @@ text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
+    title = "From our news"
     subtitle = "See the latest news and information about our product and research on our blog."
 
 
