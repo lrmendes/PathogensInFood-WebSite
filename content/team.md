@@ -16,9 +16,9 @@ title: The Team
 ----
 
 
-![Text](https://fsqa.esa.ipb.pt/img/clients/CIMO.png "CIMO LOGO" )&ensp;&ensp;&ensp;&ensp;
-![Text](https://fsqa.esa.ipb.pt/img/clients/IPB.png "IPB LOGO" )&ensp;&ensp;&ensp;&ensp;
-![Text](https://fsqa.esa.ipb.pt/img/clients/FSQA.png "FSQA LOGO" )
+![Text](https://fsqa.esa.ipb.pt/img/team/CIMO.png "CIMO LOGO" )&ensp;&ensp;&ensp;&ensp;
+![Text](https://fsqa.esa.ipb.pt/img/team/IPB.png "IPB LOGO" )&ensp;&ensp;&ensp;&ensp;
+![Text](https://fsqa.esa.ipb.pt/img/team/FSQA.png "FSQA LOGO" )
 
 ----
 
@@ -29,8 +29,8 @@ title: The Team
 - Dr. Pauline Kooh
 - Dr. Moez Sanaa
 
-![Text](https://fsqa.esa.ipb.pt/img/clients/ANSES.jpg "ANSES LOGO" )&ensp;&ensp;&ensp;&ensp;
-![Text](https://fsqa.esa.ipb.pt/img/clients/PathogensInFoods.png "PATHOGENSINFOODS LOGO" )
+![Text](https://fsqa.esa.ipb.pt/img/team/ANSES.jpg "ANSES LOGO" )&ensp;&ensp;&ensp;&ensp;
+![Text](https://fsqa.esa.ipb.pt/img/team/PathogensInFoods.png "PATHOGENSINFOODS LOGO" )
 ---
 
 

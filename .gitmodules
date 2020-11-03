@@ -5,3 +5,7 @@ url = ../hugo-universal-theme.git
 	path = gh-pages
 	url = https://github.com/lrmendes/PathogensInFood-WebSite.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/lrmendes/PathogensInFood-WebSite.git
+	branch = master
