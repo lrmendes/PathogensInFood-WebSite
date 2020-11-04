@@ -14,20 +14,20 @@ Searches in the database can be performed for following food categories and path
 
 |   	| Categories                       	|                      	| Pathogens                               	|   	|
 |---	|----------------------------------	|---------------------	|---------------------------------------	|---	|
-|   	| [Meat and meat products](https://fsqa.esa.ipb.pt/img/overview/trees/food/meat.svg)           	|                     	| Salmonella spp.,                   	    |   	|
-|   	| [Eggs and egg products](https://fsqa.esa.ipb.pt/img/overview/trees/food/eggs.svg)            	|                     	| Campylobacter spp.,                   	|   	|
-|   	| [Milk and dairy products](https://fsqa.esa.ipb.pt/img/overview/trees/food/dairy.svg)          	|                     	| Shigatoxin producing Escherichia coli 	|   	|
-|   	| [Grains and cereal products](https://fsqa.esa.ipb.pt/img/overview/trees/food/grains.svg)       	|                     	| Listeria monocytogenes                	|   	|
-|   	| [Seafood](https://fsqa.esa.ipb.pt/img/overview/trees/food/seafood.svg)                          	|                     	| Yersinia enterocolitica               	|   	|
-|   	| [Fruits](https://fsqa.esa.ipb.pt/img/overview/trees/food/fruits.svg)                           	|                     	| Bacillus cereus                       	|   	|
-|   	| [Vegetables](https://fsqa.esa.ipb.pt/img/overview/trees/food/vegetables.svg)                       	|                     	| Clostridium perfringens               	|   	|
-|   	| [Legumes](https://fsqa.esa.ipb.pt/img/overview/trees/food/legumes.svg)                          	|                     	| Staphylococcus aureus                 	|   	|
+|   	| [Meat and meat products](https://fsqa.esa.ipb.pt/img/overview/trees/food/meat.svg)           	|                     	| _Salmonella_ spp.,                   	    |   	|
+|   	| [Eggs and egg products](https://fsqa.esa.ipb.pt/img/overview/trees/food/eggs.svg)            	|                     	| _Campylobacter_ spp.,                   	|   	|
+|   	| [Milk and dairy products](https://fsqa.esa.ipb.pt/img/overview/trees/food/dairy.svg)          	|                     	| Shigatoxin producing _Escherichia coli_ 	|   	|
+|   	| [Grains and cereal products](https://fsqa.esa.ipb.pt/img/overview/trees/food/grains.svg)       	|                     	| _Listeria monocytogenes_                	|   	|
+|   	| [Seafood](https://fsqa.esa.ipb.pt/img/overview/trees/food/seafood.svg)                          	|                     	| _Yersinia enterocolitica_               	|   	|
+|   	| [Fruits](https://fsqa.esa.ipb.pt/img/overview/trees/food/fruits.svg)                           	|                     	| _Bacillus cereus_                       	|   	|
+|   	| [Vegetables](https://fsqa.esa.ipb.pt/img/overview/trees/food/vegetables.svg)                       	|                     	| _Clostridium perfringens_               	|   	|
+|   	| [Legumes](https://fsqa.esa.ipb.pt/img/overview/trees/food/legumes.svg)                          	|                     	| _Staphylococcus aureus_                 	|   	|
 |   	| [Beverages](https://fsqa.esa.ipb.pt/img/overview/trees/food/beverages.svg)                        	|                     	| Norovirus                             	|   	|
 |   	| [Multi-ingredient/composite foods](https://fsqa.esa.ipb.pt/img/overview/trees/food/composite.svg) 	|                     	| Hepatitis A virus                     	|   	|
-|   	|                                  	|                     	| Hepatitis E virus                     	|   	|
-|   	|                                  	|                     	| Cryptosporidium spp.                  	|   	|
-|   	|                                  	|                     	| Toxoplasma gondii                     	|   	|
-|   	|                                  	|                     	| Giardia duodenalis                    	|   	|
+|   	| Sugars                                 	|                     	| Hepatitis E virus                     	|   	|
+|   	|                                  	|                     	| _Cryptosporidium_ spp.                  	|   	|
+|   	|                                  	|                     	| _Toxoplasma gondii_                     	|   	|
+|   	|                                  	|                     	| _Giardia duodenalis_                    	|   	|
 
 ---
 

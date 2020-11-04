@@ -11,9 +11,9 @@ title: FAQ
 ## Q: What foodborne pathogens can be searched for?
 
 Pathogens-In-Foods contains data for:
-* **Bacteria**: Salmonella spp., Campylobacter spp., shigatoxin producing Escherichia coli, Listeria monocytogenes, Yersinia enterocolitica, Bacillus cereus, Clostridium perfringens, Staphylococcus aureus.
+* **Bacteria**: _Salmonella_ spp., _Campylobacter_ spp., shigatoxin producing _Escherichia coli_, _Listeria monocytogenes_, _Yersinia enterocolitica_, _Bacillus cereus_, _Clostridium perfringens_, _Staphylococcus_ aureus.
 * **Viruses**: norovirus, hepatitis A virus, hepatitis E virus.
-Parasites: Cryptosporidium spp., Toxoplasma gondii and Giardia duodenalis.
+* **Parasites**: _Cryptosporidium_ spp., _Toxoplasma gondii_ and _Giardia duodenalis_.
 
 ## Q: What types of food can be searched for?
 
@@ -35,7 +35,7 @@ Example: “Both” should be chosen if you wish to find enrichment and plating 
 
 The basic search is performed by selecting agent, type of essay and food category. Other filters can be applied to narrow down the results for obtaining more specific information.
 
-## Q: Q: Can I retrieve the data sources?
+## Q: Can I retrieve the data sources?
 
 The **Basic** User does not have access to the bibliographic references of the primary studies.<br>   
 The **Advanced User** can have this information providing certain conditions are met.<br>   
