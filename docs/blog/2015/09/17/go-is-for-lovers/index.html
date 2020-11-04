@@ -13,7 +13,7 @@
   
   
   
-  <meta name="keywords" content="devows, hugo, go, Overview">
+  <meta name="keywords" content="devows, hugo, go">
   
   
   <meta name="description" content="Site template made by devcows using hugo">
@@ -109,100 +109,111 @@
     <div id="all">
 
         <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
-    <div class="navbar navbar-default yamm" role="navigation" id="navbar">    
-        <div class="container">
-            <div class="navbar-header">
-                <a class="navbar-brand home" href="/">
-                    <img src="/img/PathogensInFoods.png" alt="Go is for lovers logo" class="hidden-xs hidden-sm">
-                    <img src="/img/logo-small.png" alt="Go is for lovers logo" class="visible-xs visible-sm">
-                    <span class="sr-only">Go is for lovers - go to homepage</span>
-                </a>
-                <div class="navbar-buttons">
-                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
-                      <span class="sr-only">Toggle Navigation</span>
-                        <i class="fas fa-align-justify"></i>
-                    </button>
-                </div>
-            </div>
-            
+  <style>
+    .navbar-custom {
+    background-color: #00a79d;
+    }
 
-            <div class="navbar-collapse collapse" id="navigation">
-                <ul class="nav navbar-nav navbar-right">
-                  
-                  
-                  
-                  <li class="dropdown">
-                    
-                    <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/">Home</a>
-                    
-                  </li>
-                  
-                  
-                  <li class="dropdown">
-                    
-                    <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/overview/">Overview</a>
-                    
-                  </li>
-                  
-                  
-                  <li class="dropdown">
-                    
-                    <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/team/">The Team</a>
-                    
-                  </li>
-                  
-                  
-                  <li class="dropdown">
-                    
-                    <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/support/">Support</a>
-                    
-                  </li>
-                  
-                  
-                  <li class="dropdown active">
-                    
-                    <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/blog/">News</a>
-                    
-                  </li>
-                  
-                  
-                  <li class="dropdown">
-                    
-                    <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/faq/">FAQ</a>
-                    
-                  </li>
-                  
-                  
-                  <li class="dropdown">
-                    
-                    <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/contact/">Contact Us</a>
-                    
-                  </li>
-                  
-<ul class="nav navbar-nav navbar-right" style="margin-right: 10px; margin-left:10px;margin-top: 10px;">
-                  <li>
-                    <a href="http://fsqa.esa.ipb.pt:3222" target="_blank" class="myButton" style="padding:10px; text-decoration: none; color:#ffffff;border:1px solid #019ad2;background-color:#019ad2; border-radius:6px;font-weight:bold;">ACCESS SYSTEM</a>
-                  </li>
-                </ul>
-                </ul>
-            </div>
-            
+    .dropdown.active {
+      background-color:#00544f;
+    }
 
-            <div class="collapse clearfix" id="search">    
-                <form class="navbar-form" role="search">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                        <span class="input-group-btn">
-                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
-                </span>
-                    </div>
-                </form>
-            </div>
-            
-        </div>
-    </div>
+    ul.nav a:hover { background-color: #002e2b !important; }
+    
+  </style>
+  <div class="navbar navbar-custom" role="navigation" id="navbar">    
+      <div class="container">
+          <div class="navbar-header">
+              <a class="navbar-brand home" href="/">
+                  <img src="/img/PathogensInFoods.png" alt="Go is for lovers logo" class="hidden-xs hidden-sm">
+                  <img src="/img/logo-small.png" alt="Go is for lovers logo" class="visible-xs visible-sm">
+                  <span class="sr-only" >Go is for lovers - go to homepage</span>
+              </a>
+              <div class="navbar-buttons">
+                  <button type="button" class="navbar-toggle btn-template-main" style="background-color: rgba(0, 82, 77, 0.5); color: #ffffff" data-toggle="collapse" data-target="#navigation">
+                    <span class="sr-only">Toggle Navigation</span>
+                      <i class="fas fa-align-justify"></i>
+                  </button>
+              </div>
+          </div>
+          
+
+          <div class="navbar-collapse collapse" id="navigation">
+              <ul class="nav navbar-nav navbar-right">
+                
+                
+                
+                <li class="dropdown">
+                  
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/">Home</a>
+                  
+                </li>
+                
+                
+                <li class="dropdown">
+                  
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/overview/">Overview</a>
+                  
+                </li>
+                
+                
+                <li class="dropdown">
+                  
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/team/">The Team</a>
+                  
+                </li>
+                
+                
+                <li class="dropdown">
+                  
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/support/">Support</a>
+                  
+                </li>
+                
+                
+                <li class="dropdown active">
+                  
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/blog/">News</a>
+                  
+                </li>
+                
+                
+                <li class="dropdown">
+                  
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/faq/">FAQ</a>
+                  
+                </li>
+                
+                
+                <li class="dropdown">
+                  
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/contact/">Contact Us</a>
+                  
+                </li>
+                
+              <ul class="nav navbar-nav navbar-right" style="margin-right: 10px; margin-left:10px;margin-top: 10px;">
+                <li>
+                  <a href="http://fsqa.esa.ipb.pt:3222" target="_blank" style="padding:10px; text-decoration: none; color:#ffffff;border:1px solid #002e2b;background-color:#00524d; border-radius:6px;font-weight:bold;">ACCESS SYSTEM</a>
+                </li>
+              </ul>
+              </ul>
+          </div>
+          
+
+          <div class="collapse clearfix" id="search">    
+              <form class="navbar-form" role="search">
+                  <div class="input-group">
+                      <input type="text" class="form-control" placeholder="Search">
+                      <span class="input-group-btn">
+                  <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
+              </span>
+                  </div>
+              </form>
+          </div>
+          
+      </div>
+  </div>
 </header>
-
 
 
 
@@ -235,13 +246,13 @@
                         
 
                         <div id="post-content">
-                          <p>Hugo uses the excellent <a href="http://golang.org/">go</a> <a href="http://golang.org/pkg/html/template/">html/template</a> library for
+                          <p>Hugo uses the excellent <a href="http://golang.org/" target="_blank" rel="noopener">go</a> <a href="http://golang.org/pkg/html/template/" target="_blank" rel="noopener">html/template</a> library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
 logic to be able to create a good static website. If you have used other
 template systems from different languages or frameworks you will find a lot of
 similarities in go templates.</p>
-<p>This document is a brief primer on using go templates. The <a href="http://golang.org/pkg/html/template/">go docs</a>
+<p>This document is a brief primer on using go templates. The <a href="http://golang.org/pkg/html/template/" target="_blank" rel="noopener">go docs</a>
 provide more details.</p>
 <h2 id="introduction-to-go-templates">Introduction to Go Templates</h2>
 <p>Go templates provide an extremely simple template language. It adheres to the
@@ -249,7 +260,7 @@ belief that only the most basic of logic belongs in the template or view layer.
 One consequence of this simplicity is that go templates parse very quickly.</p>
 <p>A unique characteristic of go templates is they are content aware. Variables and
 content will be sanitized depending on the context of where they are used. More
-details can be found in the <a href="http://golang.org/pkg/html/template/">go docs</a>.</p>
+details can be found in the <a href="http://golang.org/pkg/html/template/" target="_blank" rel="noopener">go docs</a>.</p>
 <h2 id="basic-syntax">Basic Syntax</h2>
 <p>Go lang templates are html files with the addition of variables and
 functions.</p>
