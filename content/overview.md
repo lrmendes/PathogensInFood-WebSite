@@ -14,16 +14,16 @@ Searches in the database can be performed for following food categories and path
 
 |   	| Categories                       	|                      	| Pathogens                               	|   	|
 |---	|----------------------------------	|---------------------	|---------------------------------------	|---	|
-|   	| Meat and meat products          	|                     	| Salmonella spp.,                   	|   	|
-|   	| Eggs and egg products            	|                     	| Campylobacter spp.,                   	|   	|
-|   	| Milk and dairy products          	|                     	| Shigatoxin producing Escherichia coli 	|   	|
-|   	| Grains and cereal products       	|                     	| Listeria monocytogenes                	|   	|
-|   	| Seafood                          	|                     	| Yersinia enterocolitica               	|   	|
-|   	| Fruits                           	|                     	| Bacillus cereus                       	|   	|
-|   	| Vegetables                       	|                     	| Clostridium perfringens               	|   	|
-|   	| Legumes                          	|                     	| Staphylococcus aureus                 	|   	|
-|   	| Beverages                        	|                     	| Norovirus                             	|   	|
-|   	| Multi-ingredient/composite foods 	|                     	| Hepatitis A virus                     	|   	|
+|   	| [Meat and meat products](https://fsqa.esa.ipb.pt/img/overview/trees/food/meat.svg)           	|                     	| Salmonella spp.,                   	    |   	|
+|   	| [Eggs and egg products](https://fsqa.esa.ipb.pt/img/overview/trees/food/eggs.svg)            	|                     	| Campylobacter spp.,                   	|   	|
+|   	| [Milk and dairy products](https://fsqa.esa.ipb.pt/img/overview/trees/food/dairy.svg)          	|                     	| Shigatoxin producing Escherichia coli 	|   	|
+|   	| [Grains and cereal products](https://fsqa.esa.ipb.pt/img/overview/trees/food/grains.svg)       	|                     	| Listeria monocytogenes                	|   	|
+|   	| [Seafood](https://fsqa.esa.ipb.pt/img/overview/trees/food/seafood.svg)                          	|                     	| Yersinia enterocolitica               	|   	|
+|   	| [Fruits](https://fsqa.esa.ipb.pt/img/overview/trees/food/fruits.svg)                           	|                     	| Bacillus cereus                       	|   	|
+|   	| [Vegetables](https://fsqa.esa.ipb.pt/img/overview/trees/food/vegetables.svg)                       	|                     	| Clostridium perfringens               	|   	|
+|   	| [Legumes](https://fsqa.esa.ipb.pt/img/overview/trees/food/legumes.svg)                          	|                     	| Staphylococcus aureus                 	|   	|
+|   	| [Beverages](https://fsqa.esa.ipb.pt/img/overview/trees/food/beverages.svg)                        	|                     	| Norovirus                             	|   	|
+|   	| [Multi-ingredient/composite foods](https://fsqa.esa.ipb.pt/img/overview/trees/food/composite.svg) 	|                     	| Hepatitis A virus                     	|   	|
 |   	|                                  	|                     	| Hepatitis E virus                     	|   	|
 |   	|                                  	|                     	| Cryptosporidium spp.                  	|   	|
 |   	|                                  	|                     	| Toxoplasma gondii                     	|   	|

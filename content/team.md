@@ -15,10 +15,9 @@ title: The Team
 
 ----
 
-
+![Text](https://fsqa.esa.ipb.pt/img/team/FSQA.png "FSQA LOGO" )&ensp;&ensp;&ensp;&ensp;
 ![Text](https://fsqa.esa.ipb.pt/img/team/CIMO.png "CIMO LOGO" )&ensp;&ensp;&ensp;&ensp;
-![Text](https://fsqa.esa.ipb.pt/img/team/IPB.png "IPB LOGO" )&ensp;&ensp;&ensp;&ensp;
-![Text](https://fsqa.esa.ipb.pt/img/team/FSQA.png "FSQA LOGO" )
+![Text](https://fsqa.esa.ipb.pt/img/team/IPB.png "IPB LOGO" )
 
 ----
 
