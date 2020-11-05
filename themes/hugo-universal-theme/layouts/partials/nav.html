@@ -1,17 +1,5 @@
 <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
-  <style>
-    .navbar-custom {
-    background-color: #00a79d;
-    }
-
-    .dropdown.active {
-      background-color:#00544f;
-    }
-
-    ul.nav a:hover { background-color: #002e2b !important; }
-    
-  </style>
-  <div class="navbar navbar-custom" role="navigation" id="navbar">    
+  <div class="navbar navbar-default yamm" role="navigation" id="navbar">    
       <div class="container">
           <div class="navbar-header">
               <a class="navbar-brand home" href="{{ "/" | relURL }}">
@@ -20,7 +8,7 @@
                   <span class="sr-only" >{{ .Title }} - {{ i18n "navHome" }}</span>
               </a>
               <div class="navbar-buttons">
-                  <button type="button" class="navbar-toggle btn-template-main" style="background-color: rgba(0, 82, 77, 0.5); color: #ffffff" data-toggle="collapse" data-target="#navigation">
+                  <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
                     <span class="sr-only">{{ i18n "navToggle" }}</span>
                       <i class="fas fa-align-justify"></i>
                   </button>
@@ -42,13 +30,12 @@
                     {{ end }}
                   </ul>
                   {{ else }}
-                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="{{ .URL }}">{{ .Name }}</a>
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="{{ .URL }}">{{ .Name }}</a>
                   {{ end  }}
                 </li>
                 {{ end }}
-              <ul class="nav navbar-nav navbar-right" style="margin-right: 10px; margin-left:10px;margin-top: 10px;">
                 <li>
-                  <a href="http://fsqa.esa.ipb.pt:3222" target="_blank" style="padding:10px; text-decoration: none; color:#ffffff;border:1px solid #002e2b;background-color:#00524d; border-radius:6px;font-weight:bold;">ACCESS SYSTEM</a>
+                  <a href="http://fsqa.esa.ipb.pt:3222" target="_blank" style="text-decoration: none; color:#ffffff;background-color:#00524d;">ACCESS SYSTEM</a>
                 </li>
               </ul>
               </ul>
