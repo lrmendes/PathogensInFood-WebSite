@@ -37,34 +37,28 @@ url  = "/database/"
 weight = 3
 
 [[menu.main]]
-identifier = "team"
-name = "The Team"
-url  = "/team/"
-weight = 4
-
-[[menu.main]]
 identifier = "support"
 name = "Support"
 url  = "/support/"
-weight = 5
+weight = 4
 
 [[menu.main]]
 identifier="blog"
 name = "News"
 url  = "/blog/"
-weight = 6
+weight = 5
 
 [[menu.main]]
 identifier = "faq"
 name = "FAQ"
 url  = "/faq/"
-weight = 7
+weight = 6
 
 [[menu.main]]
 identifier = "contact"
 name = "Contact Us"
 url  = "/contact/"
-weight = 8
+weight = 7
 
 # Top bar social links menu
 
@@ -176,7 +170,7 @@ text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello
     enable = true
 
 [params.testimonials]
-    enable = false
+    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
