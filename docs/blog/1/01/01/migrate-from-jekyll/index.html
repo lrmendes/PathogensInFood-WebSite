@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  <head><script src="/livereload.js?port=1313&amp;mindelay=10&amp;v=2" data-no-instant defer></script>
+  <head><script src="/livereload.js?port=50828&amp;mindelay=10&amp;v=2" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <title>Migrate from Jekyll</title>
-  <meta name="author" content="DevCows" />
+  <meta name="author" content="PathogensInFood" />
   
   
   
   
-  <meta name="keywords" content="devows, hugo, go, Overview">
+  <meta name="keywords" content="PathogensInFood, IPB, CIMO, Pathogens In Food, Pathogens Database, theme">
   
   
-  <meta name="description" content="Site template made by devcows using hugo">
+  <meta name="description" content="Pathogens-in-Foods is a database of systematically formatted occurrence data">
 
   <meta name="generator" content="Hugo 0.77.0" />
 
@@ -32,7 +32,7 @@
 
   
   
-    <link href="/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+    <link href="/css/style.turquoise.css" rel="stylesheet" id="theme-stylesheet">
   
 
   
@@ -55,7 +55,7 @@
   <link href="/css/owl.theme.css" rel="stylesheet">
 
   
-  <link rel="alternate" href="http://localhost:1313/index.xml" type="application/rss+xml" title="PathogensInFood">
+  <link rel="alternate" href="http://localhost:50828/index.xml" type="application/rss+xml" title="PathogensInFood">
 
   
   
@@ -68,9 +68,9 @@
   <meta property="og:site_name" content="PathogensInFood">
   <meta property="og:title" content="Migrate from Jekyll">
   <meta property="og:type" content="article">
-  <meta property="og:url" content="http://localhost:1313/blog/1/01/01/migrate-from-jekyll/" />
-  <meta property="og:description" content="Site template made by devcows using hugo">
-  <meta property="og:image" content="http://localhost:1313/img/banners/banner-5.jpg">
+  <meta property="og:url" content="http://localhost:50828/blog/1/01/01/migrate-from-jekyll/" />
+  <meta property="og:description" content="Pathogens-in-Foods is a database of systematically formatted occurrence data">
+  <meta property="og:image" content="http://localhost:50828/img/banners/banner-5.jpg">
   <meta property="og:image:type" content="image/jpg">
   
   
@@ -96,9 +96,9 @@
   
   <meta name="twitter:title" content="Migrate from Jekyll">
   
-  <meta name="twitter:image" content="http://localhost:1313/img/banners/banner-5.jpg">
+  <meta name="twitter:image" content="http://localhost:50828/img/banners/banner-5.jpg">
   
-  <meta name="twitter:description" content="Site template made by devcows using hugo">
+  <meta name="twitter:description" content="Pathogens-in-Foods is a database of systematically formatted occurrence data">
   <meta name="twitter:creator" content="@jekyllrb">
 
 </head>
@@ -109,19 +109,7 @@
     <div id="all">
 
         <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
-  <style>
-    .navbar-custom {
-    background-color: #00a79d;
-    }
-
-    .dropdown.active {
-      background-color:#00544f;
-    }
-
-    ul.nav a:hover { background-color: #002e2b !important; }
-    
-  </style>
-  <div class="navbar navbar-custom" role="navigation" id="navbar">    
+  <div class="navbar navbar-default yamm" role="navigation" id="navbar">    
       <div class="container">
           <div class="navbar-header">
               <a class="navbar-brand home" href="/">
@@ -130,7 +118,7 @@
                   <span class="sr-only" >Migrate from Jekyll - go to homepage</span>
               </a>
               <div class="navbar-buttons">
-                  <button type="button" class="navbar-toggle btn-template-main" style="background-color: rgba(0, 82, 77, 0.5); color: #ffffff" data-toggle="collapse" data-target="#navigation">
+                  <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
                     <span class="sr-only">Toggle Navigation</span>
                       <i class="fas fa-align-justify"></i>
                   </button>
@@ -145,55 +133,61 @@
                 
                 <li class="dropdown">
                   
-                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/">Home</a>
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/">Home</a>
                   
                 </li>
                 
                 
                 <li class="dropdown">
                   
-                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/overview/">Overview</a>
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/overview/">Overview</a>
                   
                 </li>
                 
                 
                 <li class="dropdown">
                   
-                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/team/">The Team</a>
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/database/">The Database</a>
                   
                 </li>
                 
                 
                 <li class="dropdown">
                   
-                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/support/">Support</a>
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/team/">The Team</a>
+                  
+                </li>
+                
+                
+                <li class="dropdown">
+                  
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/support/">Support</a>
                   
                 </li>
                 
                 
                 <li class="dropdown active">
                   
-                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/blog/">News</a>
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/blog/">News</a>
                   
                 </li>
                 
                 
                 <li class="dropdown">
                   
-                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/faq/">FAQ</a>
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/faq/">FAQ</a>
                   
                 </li>
                 
                 
                 <li class="dropdown">
                   
-                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);color: #ffffff;" href="/contact/">Contact Us</a>
+                  <a style="text-decoration: none;border-right: 1px solid rgba(0,0,0,0.03);" href="/contact/">Contact Us</a>
                   
                 </li>
                 
-              <ul class="nav navbar-nav navbar-right" style="margin-right: 10px; margin-left:10px;margin-top: 10px;">
                 <li>
-                  <a href="http://fsqa.esa.ipb.pt:3222" target="_blank" style="padding:10px; text-decoration: none; color:#ffffff;border:1px solid #002e2b;background-color:#00524d; border-radius:6px;font-weight:bold;">ACCESS SYSTEM</a>
+                  <a href="http://fsqa.esa.ipb.pt:3222" target="_blank" style="text-decoration: none; color:#ffffff;background-color:#00524d;">ACCESS SYSTEM</a>
                 </li>
               </ul>
               </ul>
@@ -401,7 +395,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
         <form action="//google.com/search" method="get" accept-charset="UTF-8" role="search">
             <div class="input-group">
                 <input type="search" name="q" class="form-control" placeholder="Search">
-                <input type="hidden" name="sitesearch" value="http://localhost:1313/">
+                <input type="hidden" name="sitesearch" value="http://localhost:50828/">
                 <span class="input-group-btn">
                     <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
                 </span>
@@ -517,7 +511,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
     <div class="container">
 
         
-        <div class="col-md-4 col-sm-6">
+        <div class="col-md-9 col-sm-6">
             <h4>About us</h4>
 
             <p>Pathogens-in-Foods is a database of systematically formatted occurrence data of the most important biological hazards in foods randomly surveyed from European farms, processing facilities, retail establishments and restauration.</p>
@@ -528,75 +522,14 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
         
         
 
-        <div class="col-md-4 col-sm-6">
-
-             
-            <h4>Recent posts</h4>
-
-            <div class="blog-entries">
-                
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="http://localhost:1313/blog/2015/10/02/linked-post/">
-                          
-                            <img src="/img/banners/banner-4.jpg" class="img-responsive" alt="Linked post">
-                          
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="http://localhost:1313/blog/2015/10/02/linked-post/">Linked post</a></h5>
-                    </div>
-                </div>
-                
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="http://localhost:1313/blog/2015/09/17/go-is-for-lovers/">
-                          
-                            <img src="/img/banners/banner-2.jpg" class="img-responsive" alt="Go is for lovers">
-                          
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="http://localhost:1313/blog/2015/09/17/go-is-for-lovers/">Go is for lovers</a></h5>
-                    </div>
-                </div>
-                
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="http://localhost:1313/blog/2015/08/03/hugo-is-for-lovers/">
-                          
-                            <img src="/img/banners/banner-3.jpg" class="img-responsive" alt="Hugo is for lovers">
-                          
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="http://localhost:1313/blog/2015/08/03/hugo-is-for-lovers/">Hugo is for lovers</a></h5>
-                    </div>
-                </div>
-                
-            </div>
-
-            <hr class="hidden-md hidden-lg">
-             
-
-        </div>
-        
-
-        
-        <div class="col-md-4 col-sm-6">
-
-          <h4>Contact</h4>
-
-            <p class="text-uppercase">        
-      </p>
-      
-
-            <a href="/contact" class="btn btn-small btn-template-main">Go to contact page</a>
-
+        <div class="col-md-3 col-sm-6">
+            <ul>
+                <li><h4><a href="/support" style="color: #eeeeee; font-weight: bold;">Donate Data</a></h4></li>
+                <li style="margin-top: 25px" ><h4><a href="/faq" style="color: #eeeeee; font-weight: bold;">FAQ</a></h4></li>
+                <li style="margin-top: 25px;"><h4><a href="/contact" style="color: #eeeeee; font-weight: bold;">Contact us</a></h4></li>
+            </ul>
             <hr class="hidden-md hidden-lg hidden-sm">
-
         </div>
-        
         
 
     </div>
@@ -611,10 +544,13 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 
 <div id="copyright">
     <div class="container">
-        <div class="col-md-12">
-            
-            <p class="pull-left">Copyright (c) 2015 - 2020, Pathogens In Foods.</p>
-            
+        <div class="col-md-9">
+            <img class="ml-5" src="https://fsqa.esa.ipb.pt/img/team/FSQA.png" height="60px" style="margin-right: 10px;" />
+            <img class="ml-15" src="https://fsqa.esa.ipb.pt/img/team/CIMO.png" height="60px" style="margin-right: 10px;"/>
+            <img class="mx-auto" src="https://fsqa.esa.ipb.pt/img/team/IPB.png" height="60px" style="margin-right: 10px;" />
+            <img class="pr-15" src="https://fsqa.esa.ipb.pt/img/team/ANSES.jpg" height="60px" style="margin-right: 10px;"/>
+        </div>
+        <div class="col-md-3">
             <p class="pull-right">
               Template by <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
               
