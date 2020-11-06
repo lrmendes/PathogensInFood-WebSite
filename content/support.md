@@ -13,7 +13,7 @@ So far, the Pathogens-in-Foods database contains microbiological survey results 
 
 The Pathogens-In-Foods team accepts quality data on incidence and/or concentration of pathogens in foods, obtained from random surveys conducted at any stage of the food chain: primary production, processing, retail and restauration.  Pathogens-in-Foods does not contain data from foodborne disease investigations.
 
-Presently, Pathogens-in-Foods supports data for Salmonella spp., Campylobacter spp., shigatoxin producing Escherichia coli, Listeria monocytogenes, Yersinia enterocolitica, Bacillus cereus, Clostridium perfringens, Staphylococcus aureus, norovirus, hepatitis A virus, hepatitis E virus, Cryptosporidium spp., Toxoplasma gondii and Giardia duodenalis.
+Presently, Pathogens-in-Foods supports data for _Salmonella_ spp., _Campylobacter_ spp., shigatoxin producing _Escherichia coli_, _Listeria monocytogenes_, _Yersinia enterocolitica_, _Bacillus cereus_, _Clostridium perfringens_, _Staphylococcus aureus_, norovirus, hepatitis A virus, hepatitis E virus, _Cryptosporidium_ spp., _Toxoplasma gondii_ and _Giardia duodenalis_.
 
 Microbiological surveys’ data can be donated in two ways:
 1. Completing an Excel spreadsheet template; or

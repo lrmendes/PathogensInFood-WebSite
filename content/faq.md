@@ -23,13 +23,13 @@ In the search, these categories can be narrowed down by food subcategories, and 
 ## Q: What is the difference between “Prevalence”, “Count” and “Both” when choosing Essay Type?
 
  **“Prevalence”** must be chosen in the field “Select Essay” if the objective is to retrieve data of the type detected/non detected (i.e., binary data).<br>   
-In the case of bacterial agents, if you wish to retrieve microbiological results from __enrichment analysis__, the “Prevalence” option must be __always__ selected. Example: “Prevalence” should be chosen if you wish to access to enrichment analysis results for Salmonella spp. or Yersinia enterocolitica.
+In the case of bacterial agents, if you wish to retrieve microbiological results from __enrichment analysis__, the “Prevalence” option must be __always__ selected. Example: “Prevalence” should be chosen if you wish to access to enrichment analysis results for _Salmonella_ spp. or _Yersinia enterocolitica_.
 
 **“Counts”** must be selected if the objective is to retrieve concentration data (i.e., continuous data). However, in the particular case of bacterial agents, if you wish to retrieve microbiological results from __direct plating__ (without enrichment), the “Counts” option must be __always__ selected.<br>   
-Example: “Counts” should be chosen if you wish to access to direct plating results for B. cereus, S. aureus or C. perfringens.
+Example: “Counts” should be chosen if you wish to access to direct plating results for _B. cereus_, _S. aureus_ or _C. perfringens_.
 
 In the case of bacterial agents, **“Both”** must be selected if the objective is to retrieve results from investigations that have conducted __both enrichment and plating essays__ on the same set of samples.<br>   
-Example: “Both” should be chosen if you wish to find enrichment and plating results for L. monocytogenes analysis conducted in parallel.
+Example: “Both” should be chosen if you wish to find enrichment and plating results for _L. monocytogenes_ analysis conducted in parallel.
 
 ## Q: How should searches be performed?
 
