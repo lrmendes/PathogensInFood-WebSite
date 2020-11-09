@@ -181,9 +181,9 @@ text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello
     enable = true
     icon = "far fa-file-alt"
     title = "Do you want to see more?"
-    subtitle = "Access our system and enjoy its features for free."
-    link_url = "http://fsqa.esa.ipb.pt:3222"
-    link_text = "Access System"
+    subtitle = "Explore our database and its features"
+    link_url = "/database"
+    link_text = "Database Access"
 
 [params.clients]
     enable = false
@@ -194,7 +194,7 @@ text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our news"
     subtitle = "See the latest news and information about our product and research on our blog."
 
