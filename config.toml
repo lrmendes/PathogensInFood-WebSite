@@ -130,8 +130,8 @@ copyright = "Copyright (c) 2015 - 2020, Pathogens In Foods."
 # Format dates with Go's time formatting
 date_format = "January 2, 2006"
 
-logo = "img/PathogensInFoods2.png"
-logo_small = "img/logo-small.png"
+logo = "img/PathogensInFoods.png"
+logo_small = "img/PathogensInFoods.png"
 address = """<p class="text-uppercase">        
       </p>
       """
