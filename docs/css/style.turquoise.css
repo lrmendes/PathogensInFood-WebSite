@@ -1162,10 +1162,16 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #f2f2f2;
-  opacity: 0.90;
+  /*background: #30e3c5;*/
+  background: #68d4c0;
+  opacity: 0.95;
   filter: alpha(opacity=95);
 }
+.owl-item .img-responsive {
+  max-height: 400px;
+
+}
+
 .home-carousel .owl-carousel {
   padding-top: 60px;
   padding-bottom: 20px;
