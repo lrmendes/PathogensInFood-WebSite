@@ -57,10 +57,11 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/contact/</guid>
-      <description>Personal Contacts CIMO Mountain Research Centre, Polytechnic Institute of Bragança, Portugal
+      <description>Contact Us  Personal Contacts CIMO Mountain Research Centre, Polytechnic Institute of Bragança, Portugal
  Dr. Vasco Cadavez (vcadavez@ipb.pt)  The French Agency for Food, Environmental and Occupational Health &amp;amp; Safety (Anses)
  Dr. Moez Sanaa (Moez.SANAA@anses.fr)   Questions &amp;amp; Suggestions Are you curious about something? Do you have some kind of problem with our products?
-Please feel free to contact us.</description>
+Please feel free to contact us.
+ </description>
     </item>
     
     <item>
@@ -69,7 +70,7 @@ Please feel free to contact us.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/faq/</guid>
-      <description>Q: What foodborne pathogens can be searched for? Pathogens-In-Foods contains data for:
+      <description>Frequently Asked Questions  Q: What foodborne pathogens can be searched for? Pathogens-In-Foods contains data for:
  Bacteria: Salmonella spp., Campylobacter spp., shigatoxin producing Escherichia coli, Listeria monocytogenes, Yersinia enterocolitica, Bacillus cereus, Clostridium perfringens, Staphylococcus aureus. Viruses: norovirus, hepatitis A virus, hepatitis E virus. Parasites: Cryptosporidium spp., Toxoplasma gondii and Giardia duodenalis.  Q: What types of food can be searched for? All types of foods are supported. The broad categories are: meat and meat products, eggs and egg products, milk and dairy products, grains and cereal products, seafood, fruits, vegetables, legumes, beverages, sugars and multi-ingredient/composite foods.</description>
     </item>
     
@@ -90,7 +91,7 @@ Please feel free to contact us.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/overview/</guid>
-      <description>In the literature, there are many investigations addressing the identification and quantification of biological hazards in foods surveyed at different stages in the farm-to-fork chain. Being able to access to and gather this information has become increasingly relevant in the development of pathogens’ risk assessment models, risk management tools and meta-analysis by both food researchers and food safety authorities. Nevertheless, this information is largely dispersed, disharmonised and not always accessible.</description>
+      <description>Overview In the literature, there are many investigations addressing the identification and quantification of biological hazards in foods surveyed at different stages in the farm-to-fork chain. Being able to access to and gather this information has become increasingly relevant in the development of pathogens’ risk assessment models, risk management tools and meta-analysis by both food researchers and food safety authorities. Nevertheless, this information is largely dispersed, disharmonised and not always accessible.</description>
     </item>
     
     <item>
@@ -99,7 +100,7 @@ Please feel free to contact us.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/support/</guid>
-      <description>So far, the Pathogens-in-Foods database contains microbiological survey results extracted from over 1000 peer-reviewed articles published since 1998. The team is continuously searching for scientific articles, and extracting the new information to keep the database updated and growing. Pathogens-in-Foods is expected to evolve soon into a platform of dashboards for data visualisation, description and summarisation.
+      <description>Support So far, the Pathogens-in-Foods database contains microbiological survey results extracted from over 1000 peer-reviewed articles published since 1998. The team is continuously searching for scientific articles, and extracting the new information to keep the database updated and growing. Pathogens-in-Foods is expected to evolve soon into a platform of dashboards for data visualisation, description and summarisation.
  DONATING DATA The Pathogens-In-Foods team accepts quality data on incidence and/or concentration of pathogens in foods, obtained from random surveys conducted at any stage of the food chain: primary production, processing, retail and restauration.</description>
     </item>
     
