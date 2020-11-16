@@ -5,6 +5,8 @@ keywords:
 title: Support
 --- 
 
+## Support
+
 So far, the Pathogens-in-Foods database contains microbiological survey results extracted from over 1000 peer-reviewed articles published since 1998. The team is continuously searching for scientific articles, and extracting the new information to keep the database updated and growing. Pathogens-in-Foods is expected to evolve soon into a platform of dashboards for data visualisation, description and summarisation.
 
 ---

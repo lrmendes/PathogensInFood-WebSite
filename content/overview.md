@@ -6,6 +6,8 @@ keywords:
 title: Overview
 --- 
 
+## Overview
+
 In the literature, there are many investigations addressing the identification and quantification of biological hazards in foods surveyed at different stages in the farm-to-fork chain. Being able to access to and gather this information has become increasingly relevant in the development of pathogens’ risk assessment models, risk management tools and meta-analysis by both food researchers and food safety authorities. Nevertheless, this information is largely dispersed, disharmonised and not always accessible.
 
 The Pathogens-in-Foods web application brings together, under a harmonised arrangement, data on the prevalence and enumeration of pathogens in foods produced, commercialised and/or consumed in Europe. Pathogens-in-Foods has been constructed to facilitate the access, visualisation and assessment of microbiological occurrence data from different sources.

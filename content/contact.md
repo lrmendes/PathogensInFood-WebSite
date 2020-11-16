@@ -2,7 +2,10 @@
 id: contact
 title: Contact
 ---
-# Personal Contacts
+
+## Contact Us
+-----------
+### Personal Contacts
 
 **CIMO Mountain Research Centre, Polytechnic Institute of Bragança, Portugal**
 * **Dr. Vasco Cadavez (vcadavez@ipb.pt)**
@@ -11,8 +14,10 @@ title: Contact
 * **Dr. Moez Sanaa (Moez.SANAA@anses.fr)**
 
 ---
-# Questions & Suggestions
+### Questions & Suggestions
 
 Are you curious about something? Do you have some kind of problem with our products?
 
 Please feel free to contact us.
+
+-----
