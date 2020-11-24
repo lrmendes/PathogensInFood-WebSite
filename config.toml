@@ -31,12 +31,6 @@ url  = "/overview/"
 weight = 2
 
 [[menu.main]]
-identifier="database"
-name = "The Database"
-url  = "/database/"
-weight = 3
-
-[[menu.main]]
 identifier = "support"
 name = "Support"
 url  = "/support/"
