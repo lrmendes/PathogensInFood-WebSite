@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on PathogensInFood</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blogs on PathogensInFood</description>
+    <title>pathogens in foods on PathogensInFood</title>
+    <link>https://fsqa.esa.ipb.pt/tags/pathogens-in-foods/</link>
+    <description>Recent content in pathogens in foods on PathogensInFood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2020 21:49:20 +0200</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2020 21:49:20 +0200</lastBuildDate><atom:link href="https://fsqa.esa.ipb.pt/tags/pathogens-in-foods/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pathogens-in-Foods is up and running</title>
-      <link>http://localhost:1313/blog/2020/11/20/pif-is-up-and-running/</link>
+      <link>https://fsqa.esa.ipb.pt/blog/2020/11/20/pif-is-up-and-running/</link>
       <pubDate>Fri, 20 Nov 2020 21:49:20 +0200</pubDate>
       
-      <guid>http://localhost:1313/blog/2020/11/20/pif-is-up-and-running/</guid>
+      <guid>https://fsqa.esa.ipb.pt/blog/2020/11/20/pif-is-up-and-running/</guid>
       <description>Pathogens-in-Foods is up and running The Pathogens-in-Foods database has been re-designed and is ready to receive data.
 Users can produce dynamic charts and summary statistics of incidence of bacteria in any food category, on a web application that is highly intuitive and easy to use.
 Pathogens-in-Foods has solid scientific and computational basis for growth, and is up to serve the scientific community and food authorities.
@@ -21,10 +21,10 @@ Pathogens-in-Foods has solid scientific and computational basis for growth, and 
     
     <item>
       <title>Pathogens-in-Foods concept presented at ICPMF11 Conference</title>
-      <link>http://localhost:1313/blog/2020/07/01/concept-presented-icpmf11/</link>
+      <link>https://fsqa.esa.ipb.pt/blog/2020/07/01/concept-presented-icpmf11/</link>
       <pubDate>Wed, 01 Jul 2020 12:30:20 +0200</pubDate>
       
-      <guid>http://localhost:1313/blog/2020/07/01/concept-presented-icpmf11/</guid>
+      <guid>https://fsqa.esa.ipb.pt/blog/2020/07/01/concept-presented-icpmf11/</guid>
       <description>Pathogens-in-Foods concept presented at ICPMF11 Conference The concept of the Pathogens-in-Foods database and application was explained in the presentation entitled “A web application to access and analyse occurrence data of microbial hazards in foods” at the International Conference on Predictive Modelling in Food (ICPMF11), which took place on the 17-20th September 2019 in Bragança, Portugal.
 Dr. Gonzales-Barron pointed out that Pathogens-in-Foods was conceived to bring together prevalence and enumeration data of biological hazards in foods, which are plenty yet disperse, in a harmonised arrangement.</description>
     </item>

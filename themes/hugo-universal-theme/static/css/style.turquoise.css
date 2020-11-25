@@ -2187,6 +2187,10 @@ fieldset[disabled] .btn-template-primary.active {
 #blog-post #post-content {
   margin-bottom: 20px;
 }
+#post-content img {
+    max-width: 100%;
+    height: auto;
+}
 #blog-post .comment {
   margin-bottom: 25px;
 }
