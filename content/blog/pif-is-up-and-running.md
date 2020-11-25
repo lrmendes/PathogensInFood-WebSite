@@ -10,8 +10,6 @@ tags:
 title: Pathogens-in-Foods is up and running 
 ---
 
-### Pathogens-in-Foods is up and running
-
 The Pathogens-in-Foods database has been re-designed and is ready to receive data.
 
 Users can produce dynamic charts and summary statistics of incidence of bacteria in any food category, on a web application that is highly intuitive and easy to use. 

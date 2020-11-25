@@ -1261,6 +1261,28 @@ fieldset[disabled] .btn-template-primary.active {
   filter: none;
   -webkit-filter: none;
 }
+
+.our-team-carousel {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(200px, 1fr));
+}
+
+.our-team-top {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.our-team-top img {
+  max-width: 100px;
+}
+
+.our-team-card {
+  margin: 5px 5px;
+  background: #fff; 
+  padding: 15px 15px; 
+  border-radius: 5px;
+}
+
 .testimonials {
   padding: 0;
   margin-bottom: 40px;
@@ -1732,6 +1754,10 @@ fieldset[disabled] .btn-template-primary.active {
 @media (max-width: 991px) {
   .box .box-footer .btn {
     margin-bottom: 20px;
+  }
+  .our-team-carousel {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
   }
 }
 .box.no-border {
@@ -2878,6 +2904,14 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-fixed-bottom .navbar-collapse {
   max-height: 340px;
 }
+
+@media (max-width: 675px) {
+  .our-team-carousel {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(200px, 1fr));
+  }
+}
+
 @media (max-width: 480px) and (orientation: landscape) {
   .navbar-fixed-top .navbar-collapse,
   .navbar-affixed-top .navbar-collapse,

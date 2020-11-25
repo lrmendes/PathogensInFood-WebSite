@@ -15,24 +15,24 @@
 
                 <!-- *** TESTIMONIALS CAROUSEL *** -->
 
-                <ul class="owl-carousel testimonials same-height-row">
+                <div class="our-team-carousel">
                     {{ range .Site.Data.testimonials }}
-                    <li class="item">
-                        <div class="testimonial same-height-always">
+                    <div class="our-team-card">
+                        <div class="our-team-top">
+                            <img class="" alt="" src="{{ .avatar | absURL }}">
+                            <div>
+                                <h5>{{ .name }}</h5>
+                                <p>{{ .position }}</p>
+                            </div>
+                        </div>
+                        <hr style="max-width: 90%;"/>
+                        <div class="our-team-bottom">
                             <div class="text">
                                 <p>{{ .text | markdownify }}</p>
                             </div>
-                            <div class="bottom">
-                                <div class="icon"><i class="fas fa-quote-left"></i>
-                                </div>
-                                <div class="name-picture">
-                                    <img class="" alt="" src="{{ .avatar | absURL }}">
-                                    <h5>{{ .name }}</h5>
-                                    <p>{{ .position }}</p>
-                                </div>
-                            </div>
                         </div>
-                    </li>
+                    </div>
+                    
                     {{ end }}
                 </ul>
                 <!-- /.owl-carousel -->
